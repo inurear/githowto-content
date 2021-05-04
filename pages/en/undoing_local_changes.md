@@ -9,7 +9,7 @@ title: "14. Discarding local changes (before staging)"
 
 <h2><em>01</em> Checking out the Master branch </h2>
 
-<p>Make sure you are on the lastest commit in the master brach before you continue.</p>
+<p>Make sure you are on the latest commit in the master branch before you continue.</p>
 
 <h4 class="h4-pre">Run:</h4>
 
